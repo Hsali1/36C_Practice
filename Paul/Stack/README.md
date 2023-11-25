@@ -1,3 +1,5 @@
 To build:
+```
 $ make
 $ ./Target
+```
